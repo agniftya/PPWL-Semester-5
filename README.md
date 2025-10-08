@@ -1,2 +1,2 @@
-# PPWL-Semester-5
+# PPWL
 Kumpulan tugas Perancangan dan Pemrograman Web Lanjut Semester 5
